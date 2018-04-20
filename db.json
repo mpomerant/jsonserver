@@ -1,11 +1,12 @@
 {
-"attributes": [
-  {"name": "ATTR_1"},
-  {"name": "ATTR_2"},
-  {"name": "ATTR_3"},
-  {"name": "ATTR_4"},
-  {"name": "ATTR_5"},
-  {"name": "ATTR_6"},
+"attributes" : [
+  {"id": 1,
+   "name": "ATTR_1"},
+  {"id": 2,"name": "ATTR_2"},
+  {"id": 3,"name": "ATTR_3"},
+  {"id": 4,"name": "ATTR_4"},
+  {"id": 5,"name": "ATTR_5"},
+  {"id": 6,"name": "ATTR_6"},
   
 ]
 }
